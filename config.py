@@ -1,4 +1,3 @@
-
 bot_token = 'token'
 
 dbname = 'dbname'
