@@ -1,6 +1,6 @@
 # oxxxybot
 
-Telegram bot for entertainment that sends selected quotes from the rapper Oxxxymiron to the chat. I wrote it in one evening for friends
+Telegram bot for entertainment that sends my favorite Oxxxymiron's quotes to the chat. I wrote it in one evening for friends
 
 ## Requirements
 * telebot
